@@ -1,0 +1,10 @@
+/Users/paiconor/Downloads/nettest/bin/Debug/netcoreapp2.0/nettest.deps.json
+/Users/paiconor/Downloads/nettest/bin/Debug/netcoreapp2.0/nettest.runtimeconfig.json
+/Users/paiconor/Downloads/nettest/bin/Debug/netcoreapp2.0/nettest.runtimeconfig.dev.json
+/Users/paiconor/Downloads/nettest/bin/Debug/netcoreapp2.0/nettest.dll
+/Users/paiconor/Downloads/nettest/bin/Debug/netcoreapp2.0/nettest.pdb
+/Users/paiconor/Downloads/nettest/obj/Debug/netcoreapp2.0/nettest.csproj.CoreCompileInputs.cache
+/Users/paiconor/Downloads/nettest/obj/Debug/netcoreapp2.0/nettest.AssemblyInfoInputs.cache
+/Users/paiconor/Downloads/nettest/obj/Debug/netcoreapp2.0/nettest.AssemblyInfo.cs
+/Users/paiconor/Downloads/nettest/obj/Debug/netcoreapp2.0/nettest.dll
+/Users/paiconor/Downloads/nettest/obj/Debug/netcoreapp2.0/nettest.pdb
